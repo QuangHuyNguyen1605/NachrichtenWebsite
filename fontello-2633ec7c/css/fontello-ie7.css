@@ -1,0 +1,39 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+.icon-facebook { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-gplus { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-search { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
+.icon-share { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
+.icon-print { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
+.icon-play-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
+.icon-comment { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;'); }
+.icon-play-circled2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;&nbsp;'); }
+.icon-thumbs-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;'); }
+.icon-reply { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;&nbsp;'); }
+.icon-videocam { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;&nbsp;'); }
+.icon-home { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;&nbsp;'); }
+.icon-plus-circle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;&nbsp;'); }
+.icon-clock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;&nbsp;'); }
+.icon-bookmark-empty { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf097;&nbsp;'); }
+.icon-angle-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf104;&nbsp;'); }
+.icon-angle-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf105;&nbsp;'); }
+.icon-angle-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf107;&nbsp;'); }
+.icon-play-circled-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf144;&nbsp;'); }
+.icon-twitter-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf309;&nbsp;'); }
+.icon-twitter-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30a;&nbsp;'); }
+.icon-facebook-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30c;&nbsp;'); }
+.icon-facebook-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30d;&nbsp;'); }
+.icon-gplus-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;&nbsp;'); }
+.icon-youtube-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf313;&nbsp;'); }
